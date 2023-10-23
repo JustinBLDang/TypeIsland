@@ -1,5 +1,7 @@
 # Type Island
+## Unit 13 Gif
 
+<img src="https://user-images.githubusercontent.com/86101798/167067683-2525c500-8f0b-4ac0-9569-4d350c000bbc.gif" width="250" />
 ## Table of Contents
 1. [Overview](#Overview)
 1. [Product Spec](#Product-Spec)
@@ -99,7 +101,3 @@ Singleplayer speed-typing based game. Complete typing based challenges to combat
 ## Unit 12 Gif
 
 <img src="https://user-images.githubusercontent.com/86101798/165883890-4b20d769-b8c8-4fd3-949e-a5d9d93934b9.gif" width="250" />
-
-## Unit 13 Gif
-
-<img src="https://user-images.githubusercontent.com/86101798/167067683-2525c500-8f0b-4ac0-9569-4d350c000bbc.gif" width="250" />
